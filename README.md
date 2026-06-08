@@ -7,7 +7,7 @@ A dedicated profit tracking and inventory valuation application designed specifi
 ## 📝 How to Use
 
 1. **Calculate Margin:** Input the item name (**Eşya Adı**), site coin value (**Coin Değeri**), and the target marketplace value (**Pazar Değeri**) to instantly see your net profit (**Kâr**).
-2. **Dynamic Conversions:** Dollar-Token conversions and net revenue calculation happen underneath your input fields as you type.
+2. **Dynamic Conversions:** Dollar-Token conversion and profit calculation happen underneath your input fields as you type.
 3. **Save Trades:** Click **Kaydet** to store your profitable entries into your local inventory ledger.
 4. **View Ledger:** Open **Tüm Eşyalar** to access your comprehensive inventory ledger tracking purchase costs (**Satın Alım Değeri**) and acquisition dates (**Satın Alım Tarihi**).
 5. **Quick Actions:** Use hotkeys like **SHIFT + Sol Tık** to interact with logged elements, sum totals with **Topla**, or purge data with **Sil**.
