@@ -18,11 +18,11 @@ A dedicated profit tracking and inventory valuation application designed specifi
 
 | Start | Active Calculation |
 |:---:|:---:|
-| <img width="400" height alt="Start" src="https://github.com/user-attachments/assets/f532b699-e8de-4fb0-89d7-ddba4e111455" /> | <img width="400" alt="Active Calculation" src="https://github.com/user-attachments/assets/39661a69-c085-47d1-99a3-c08a0fa7a0bf" />
+| <img width="500" height alt="Start" src="https://github.com/user-attachments/assets/f532b699-e8de-4fb0-89d7-ddba4e111455" /> | <img width="500" alt="Active Calculation" src="https://github.com/user-attachments/assets/39661a69-c085-47d1-99a3-c08a0fa7a0bf" />
 
 | Saved Items Page |
 |:---:|
-| <img width="400" alt="Saved Items Page" src="https://github.com/user-attachments/assets/18da7e2e-1c6a-4b55-bdd4-13980e029892" /> |
+| <img width="500" alt="Saved Items Page" src="https://github.com/user-attachments/assets/18da7e2e-1c6a-4b55-bdd4-13980e029892" /> |
 
 ---
 
